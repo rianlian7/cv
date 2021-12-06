@@ -22,7 +22,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       - idiom: English
@@ -76,8 +76,8 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: 3D Printing Specialist
+      time: 2019 - 2020
       company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -91,8 +91,8 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+    - role: Junior Software Engineer
+      time: 2020 - 2020
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -102,17 +102,19 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Computer Teacher (ICT, Computer Science & Digital Literacy)
+      time: 2020 - 2021
+      company: Knewton Global Schools
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Teach Key Stage 3 Digital Literacy
+          - Teach Key Stage 4 ICT and Computer Science
+          - Provided technical staff training and CPD
+
 projects:
     title: Projects
     intro: >
